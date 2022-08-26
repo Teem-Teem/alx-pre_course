@@ -8,4 +8,5 @@ cat bash/alx
 echo #!/bin/bash>"ALX"
 cat bash/school
 echo #!/bin/bash>"School"
+My readme is up to date
 
